@@ -1,4 +1,4 @@
-# DS18B20 Temperature Sensor for Microbit 
+# DS18B20 Temperature Sensor for Calliope
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Forked from https://github.com/mengbishu/pxt-ds18b20
 
 ## Supported targets
 
-* for PXT/Calliope
+* for PXT/calliopemini
 
 
 
