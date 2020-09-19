@@ -15,13 +15,13 @@ namespace DS18B20 {
 
     export enum pin {
        //% block=P0
-       pin12 = 12,
+       pin12 = DigitalPin.P0,
        //% block=P1
-       pin0 = 0,
+       pin0 = DigitalPin.P1,
        //% block=P2
-       pin1 = 1,
+       pin1 = DigitalPin.P2,
        //% block=P3
-       pin16 = 16,
+       pin16 = DigitalPin.P3,
      //  //% block=C16      bekomme die Pins im C++ File einfach nicht angesteuert (Issue1)
      //  pin2 = 2,
      //  //% block=C17
